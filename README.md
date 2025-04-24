@@ -1,4 +1,5 @@
-# GitHub使用指南
+# GitHub使用指南 
+https://itechub.gitbook.io/github-guides-zhcn/
 ## 1. 创建一个仓库
 1. 在右上角，你头像的旁边，点击 + 号图标然后选择 New repository。
 2. 仓库命名为hello-world。
