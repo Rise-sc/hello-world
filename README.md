@@ -8,7 +8,9 @@ GitHub中文使用指南:https://itechub.gitbook.io/github-guides-zhcn/
 5. 创建一个新仓库
 6. 点击 Create repository。
 ## 2. 创建一个分支(分支存档)
-> main(默认) 为标准分支 , readme-edits(创建)为分支存档,像游戏一样,这个存档可以达成不一样的结局,也可以合并主存档.
+Main/master(默认) 为标准分支 
+Readme-edits(创建)为分支存档
+例如:像游戏一样,这个存档可以达成不一样的结局,也可以合并主存档.
 1. 前往你的新仓库 hello-world。
 2. 点击文件列表顶端显示了 branch 的列表。
 3. 往new branch新建文本框里输入一个分支名，readme-edits。
