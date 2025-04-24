@@ -9,8 +9,6 @@ GitHub中文使用指南:https://itechub.gitbook.io/github-guides-zhcn/
 6. 点击 Create repository。
 
 ## 这些更改只会影响 readme-edits 分支上的 README 文件，因此现在这个分支包含的内容与 master 不同。
-
-=======
 ## 2. 创建一个分支(分支存档)
 Main/master(默认)  为标准分支  
 Readme-edits(创建) 为分支存档  
