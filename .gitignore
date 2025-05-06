@@ -1,1 +1,9 @@
+# 忽略localgitlab这个文件
 localgitlab/
+
+#忽略c的编译后的编译文件
+hello
+hello.exe
+*.o
+
+
